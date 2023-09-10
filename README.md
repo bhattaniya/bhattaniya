@@ -1,9 +1,10 @@
 -
-- 👋 Hi, I’m nitin bhattaniya
+- 👋 Hi, I’m nitin
 - <br/>
-this is my frist repo..
+this is my secound repo..
 
-- 
+- the Author is nitin bhattaniay
+
 
 <!---
 bhattaniya/bhattaniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
