@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @bhattaniya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-
+- 👋 Hi, I’m nitin bhattaniya
+- <br/>
+this is my frist repo..
+
+- 
 
 <!---
 bhattaniya/bhattaniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
